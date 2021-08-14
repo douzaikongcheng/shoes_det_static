@@ -163,6 +163,3 @@ paddle_lite_opt --model_file=inference/ssd_mobilenet_v1_voc/__model__ --param_fi
 
 ​	使用的数据集较少，因为标注数据集需要花费大量时间，主要是实现整个项目的流程，所以检测的MAP较低。另外没有区分拖鞋和凉鞋。
 
-## 个人简介
-
-我在AI Studio上获得青铜等级，点亮1个徽章，来互关呀~ https://aistudio.baidu.com/aistudio/personalcenter/thirdview/683103
